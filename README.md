@@ -1,6 +1,8 @@
 código do site
-"<img width="742" height="446" alt="Captura de tela 2026-11-02 225112" src="https://github.com/user-attachments/assets/38d1da56-a778-41b6-977e-bf80a04b6bc9" />
+<img width="729" height="406" alt="Captura de tela 2026-11-02 225521" src="https://github.com/user-attachments/assets/bf8faae8-2cc2-407e-8fca-d50ab6879d13" />
+
 
 Imagem do Site
-<img width="1" height="1" alt="Captura de tela 2026-11-02 225103" src="https://github.com/user-attachments/assets/2d14d82f-cfc6-4483-b4bf-c31ee72ae7c2" />
+<img width="1279" height="549" alt="Captura de tela 2026-11-02 224951" src="https://github.com/user-attachments/assets/29b363bd-b30c-44f7-8ff4-c574b0f1d105" />
+
 
