@@ -1,4 +1,6 @@
 código do site
+
+
 <img width="729" height="406" alt="Captura de tela 2026-11-02 225521" src="https://github.com/user-attachments/assets/bf8faae8-2cc2-407e-8fca-d50ab6879d13" />
 
 
